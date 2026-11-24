@@ -1,0 +1,22 @@
+{
+  "documents_used": 17247,
+  "vocabulary_size": 12000,
+  "nmf_topics": 6,
+  "lda_topics": 6,
+  "kmeans_clusters": 6,
+  "silhouette_sample": 2500,
+  "silhouette_score": 0.004353289318572241,
+  "trend_terms": [
+    "email",
+    "website",
+    "blog",
+    "podcast",
+    "hashtag",
+    "selfie",
+    "emoji",
+    "social media"
+  ],
+  "trend_years": "1990-2019",
+  "dataset": "20 Newsgroups (all split; headers/footers/quotes removed) + Google Books Ngram 2019 English corpus",
+  "random_seed": 42
+}
